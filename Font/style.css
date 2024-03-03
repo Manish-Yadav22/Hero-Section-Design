@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Gellix';
+    src: local('Gellix Bold'), local('Gellix-Bold'),
+        url('Gellix-Bold.woff2') format('woff2'),
+        url('Gellix-Bold.woff') format('woff'),
+        url('Gellix-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
